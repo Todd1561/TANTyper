@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeyPresser", "KeyPresser\KeyPresser.vbproj", "{BBA869B9-3EB8-4BD3-9717-37D3B8DEC50D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TANTyper", "KeyPresser\TANTyper.vbproj", "{BBA869B9-3EB8-4BD3-9717-37D3B8DEC50D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
