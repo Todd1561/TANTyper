@@ -2,6 +2,10 @@
 
 Types the specified keys out to whatever window has focus in an endless loop.
 
+## Download
+
+The latest release can be found in the 'Releases' section or click [here](https://github.com/Todd1561/TANTyper/releases/download/v1.0/TANTyper.exe).
+
 ## Examples
 Type 'hello' in endless loop  
 `tantyper.exe "h,e,l,l,o"`
